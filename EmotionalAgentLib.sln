@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmotionalAgentLib", "EmotionalAgentLib\EmotionalAgentLib.csproj", "{377BB885-31AD-4CF3-BB94-1A1F1EA6B375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmotionalAgentTests", "EmotionalAgentTests\EmotionalAgentTests.csproj", "{936F9F49-2406-451C-9862-371658C104B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainLibrary", "ActionsLibrary\MainLibrary.csproj", "{66F62606-9883-4428-AE5D-4B6D7668D538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377BB885-31AD-4CF3-BB94-1A1F1EA6B375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377BB885-31AD-4CF3-BB94-1A1F1EA6B375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377BB885-31AD-4CF3-BB94-1A1F1EA6B375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377BB885-31AD-4CF3-BB94-1A1F1EA6B375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936F9F49-2406-451C-9862-371658C104B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936F9F49-2406-451C-9862-371658C104B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936F9F49-2406-451C-9862-371658C104B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936F9F49-2406-451C-9862-371658C104B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F62606-9883-4428-AE5D-4B6D7668D538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F62606-9883-4428-AE5D-4B6D7668D538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F62606-9883-4428-AE5D-4B6D7668D538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F62606-9883-4428-AE5D-4B6D7668D538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
